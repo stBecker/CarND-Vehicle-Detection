@@ -5,6 +5,9 @@ __pycache__/
 
 .idea
 
+*.zip
+*.tar.gz
+*.db
 
 # C extensions
 *.so
